@@ -1,6 +1,6 @@
-<h2>Meta-based CSS Hider (Wordpress Plugin)</h2>
+# Meta-based CSS Hider (Wordpress Plugin)
 
-<h4>Beschreibung:</h4>
+## Beschreibung
 Blendet HTML-Elemente per CSS aus, wenn eine User-Meta-Bedingung erfüllt ist.<br>
 <br>
 Operatoren: =, !=, contains, not_contains, in, not_in, regex. Optional auch im Admin.
